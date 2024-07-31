@@ -1,0 +1,7 @@
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.csproj.AssemblyReference.cache
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.Form1.resources
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.csproj.GenerateResource.cache
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.AssemblyInfoInputs.cache
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.AssemblyInfo.cs
+C:\Users\AL_WSABI FON\source\repos\AMPApp\AMPApp\obj\Debug\net6.0-windows\AMPApp.csproj.CoreCompileInputs.cache
