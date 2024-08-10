@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AMPApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+33f5c4d14d0a876b5316694be2f2566c9e874ae6")]
 [assembly: System.Reflection.AssemblyProductAttribute("AMPApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AMPApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

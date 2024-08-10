@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "zRb/lLHlhR/FLWc9RudNz5Zwmtj3DCKW51v683NSMUuYJAzHTRnVchBbtXxwWeE+znABUAo5r2vp5YfOSOtV2g==",
+  "dgSpecHash": "ZC2H+yFgXDk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\AL_WSABI FON\\source\\repos\\AMPApp\\AMPApp\\AMPApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\My Projects\\repos\\AMPApp\\AMPApp\\AMPApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.30\\microsoft.windowsdesktop.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.30\\microsoft.netcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.30\\microsoft.aspnetcore.app.ref.6.0.30.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.30\\microsoft.netcore.app.host.win-x64.6.0.30.nupkg.sha512"
+  ],
   "logs": []
 }
